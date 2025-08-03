@@ -62,7 +62,3 @@ https://github.com/Motihari09052005/Student-Result-visualization-dashboard02   #
 
 
 
-
-
-
-Ask ChatGPT
