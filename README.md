@@ -55,6 +55,8 @@ Assists in academic planning
 
 Would you like a sample Power BI layout or design idea for your dashboard as well?
 
+https://github.com/Motihari09052005/Student-Result-visualization-dashboard02   # project link plz go here
+
 
 
 
