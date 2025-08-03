@@ -21,6 +21,7 @@ Slide 4: Procedure
 📊 Create visuals:
 
 Bar charts (subject-wise performance)
+https://github.com/Motihari09052005/Student-Result-visualization-dashboard02
 
 Pie chart (grade distribution)
 
